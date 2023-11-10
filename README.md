@@ -1,2 +1,2 @@
 # HRT_TECH_SOLUTIONS_INTERNSHIP
-Internship projet. Selected domain Python.
+Internship projet 1. Selected domain Python.
